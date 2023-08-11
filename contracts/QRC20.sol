@@ -6,7 +6,7 @@ import "@openzeppelin/contracts-upgradeable/token/ERC20/ERC20Upgradeable.sol";
 
 
 import "@q-dev/gdk-contracts/interfaces/tokens/IQRC20.sol";
-import "@q-dev/gdk-contracts/metadata/IContractMetadata.sol";
+import "@q-dev/gdk-contracts/metadata/ContractMetadata.sol";
 
 /**
  * @title QRC20
