@@ -30,6 +30,7 @@
     "web3": "^4.0.3"
   },
   "devDependencies": {
-    "@dlsl/hardhat-migrate": "^1.5.5"
+    "@dlsl/hardhat-migrate": "^1.5.5",
+    "hardhat": "^2.17.1"
   }
 }
