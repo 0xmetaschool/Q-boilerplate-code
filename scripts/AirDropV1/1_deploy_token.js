@@ -3,7 +3,7 @@ Web3 = require('web3');
 
 
 async function main() {
-    
+  
     //Metadata
     const name = "Meta DAO";
     const symbol = "Meta";
@@ -20,6 +20,6 @@ async function main() {
     const qrc20Address = await qrc.getAddress();
     console.log("QRC20 deployed to:", qrc20Address);
 
-  } 
+  }
 
   main();
